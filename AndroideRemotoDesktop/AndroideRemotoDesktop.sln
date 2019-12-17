@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroideRemotoDesktop", "AndroideRemotoDesktop\AndroideRemotoDesktop.csproj", "{2F135DAC-F4BE-4A41-B105-4F6C61BCC759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndRem", "AndRem\AndRem.csproj", "{A9FADE6B-CCA5-4A34-92B9-4D802D343A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F135DAC-F4BE-4A41-B105-4F6C61BCC759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F135DAC-F4BE-4A41-B105-4F6C61BCC759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F135DAC-F4BE-4A41-B105-4F6C61BCC759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F135DAC-F4BE-4A41-B105-4F6C61BCC759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9FADE6B-CCA5-4A34-92B9-4D802D343A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FADE6B-CCA5-4A34-92B9-4D802D343A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FADE6B-CCA5-4A34-92B9-4D802D343A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FADE6B-CCA5-4A34-92B9-4D802D343A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17B3CC39-C88F-4061-A17A-8B2DA1A8EA3D}
+	EndGlobalSection
+EndGlobal
